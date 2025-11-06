@@ -1,2 +1,2 @@
 Python Programm das den Mandelbroteffekt zeigt. 
-Erstellt mit Github Coplilot
+Erstellt mit github Coplilot
